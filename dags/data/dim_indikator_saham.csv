@@ -1,0 +1,6 @@
+indikator_id,nama_indikator,satuan
+1,Open Price,Rupiah (IDR)
+2,High Price,Rupiah (IDR)
+3,Low Price,Rupiah (IDR)
+4,Close Price,Rupiah (IDR)
+5,Volume,Lembar Saham
