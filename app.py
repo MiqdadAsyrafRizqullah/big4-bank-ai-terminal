@@ -228,7 +228,7 @@ with tab3:
     
     model = models[pilih_bank]
     current_date = latest['waktu_id']
-    current_features = latest[features].values.reshape(1, -1)
+    current_features = np.array(latest[features].values, dtype=float, copy=True).reshape(1, -1)
     
     f_dates, f_preds = [], []
     for _ in range(30):
