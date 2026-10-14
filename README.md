@@ -49,7 +49,7 @@ Model dievaluasi menggunakan data testing berurutan (*Time-Series Sequential Spl
 Dosen / Penguji dapat menjalankan proyek ini dengan sangat mudah:
 
 ### 1. Menjalankan Dashboard Streamlit (Paling Cepat)
-Proyek ini telah dilengkapi dataset cadangan mandiri (`data_clean_stock.csv`). Dosen **tidak diwajibkan menyalakan Docker/MySQL** hanya untuk menguji dashboard dan model AI:
+Proyek ini telah dilengkapi dataset cadangan mandiri (`data_clean_stock.csv`).
 
 ```bash
 # 1. Install library yang dibutuhkan
